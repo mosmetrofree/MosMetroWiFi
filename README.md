@@ -1,4 +1,1 @@
-empty
-=====
-
-Empty repo for testing
+MAC's authorized MosMetroWiFi users list 
